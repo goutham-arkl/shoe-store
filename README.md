@@ -26,7 +26,7 @@ SHOE STORE is an e-commerce application through which you can buy shoes.
 
 ![App Screenshot](./screenshots/2.png)
 
-![App Screenshot](./screenshot/3.png)
+![App Screenshot](./screenshots/3.png)
 
 ![App Screenshot](./screenshots/4.png)
 
