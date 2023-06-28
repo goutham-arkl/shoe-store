@@ -157,7 +157,6 @@ const Cart = () => {
   return (
     <Container>
         <Navbar/>
-        <Announcement/>
         <Wrapper>
             <Title>YOUR CART</Title>
             <Top>
